@@ -1,6 +1,6 @@
 JSHint plugin for PSPad.
 
-This [JSHint](www.jshint.com) plugin for [PSPad](www.pspad.com) allows you to perform a jshint on 
+This [JSHint](http://www.jshint.com) plugin for [PSPad](http://www.pspad.com) allows you to perform a jshint on 
 open javascript files in pspad.
  
 
