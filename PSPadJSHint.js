@@ -6,14 +6,15 @@
   Code:         http://github.com/PSPadJSHint/pspadjshint
 
   Usage:
-  Put this file in the JScripts directory and recompile scripts.
-  Create a directory 'library' in the  JScripts directory.
-  Put a jshint file in the 'library' directory with the name jshint.js. 
-  Select Scripts | JSHint | Usage for more explanation. (See function usage)
+* Put this file in the JScripts directory and recompile scripts.
+* Create a directory 'library' in the  JScripts directory.
+* Put a jshint file in the 'library' directory with the name jshint.js.
+* Restart PSPad or select Scripts | Recompile scripts.
+* Select Scripts | JSHint | Usage for more explanation. (See function usage)
 
 
   ChangeList:
-  20111010      Cretaed, version 1.1.1
+  20111010      Created, version 1.1.1
 ==================================================================================================*/
 
 /*global

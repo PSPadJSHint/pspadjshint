@@ -9,6 +9,7 @@ open javascript files in pspad.
 * Put this file in the JScripts directory and recompile scripts.
 * Create a directory 'library' in the  JScripts directory.
 * Put a jshint file in the 'library' directory with the name jshint.js.
+* Restart PSPad or select Scripts | Recompile scripts.
 * Select Scripts | JSHint | Usage for more explanation. (See function usage)
 
 
