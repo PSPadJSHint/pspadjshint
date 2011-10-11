@@ -40,7 +40,7 @@ JSHINT
 
 var menuName = "JSHint",
     module_name = "PSPadJSHint",
-    module_ver = "1.1.1",
+    module_ver = "2.1.1",
     myself = this;
 
 
