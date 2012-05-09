@@ -6,7 +6,7 @@ open javascript files in pspad.
 
 ### Installation
 
-* Put this file in the JScripts directory and recompile scripts.
+* Put this file in the JScripts directory.
 * Create a directory 'library' in the  JScripts directory.
 * Put a jshint file in the 'library' directory with the name jshint.js.
 * Restart PSPad or select Scripts | Recompile scripts.
